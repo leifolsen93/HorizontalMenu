@@ -30,7 +30,7 @@ ul li, ul li a:hover
 	border-color: purple;
 	border: 4px black;
 	border-radius: 9px;
-	transition: 1s;
+	transition: 4s;
 }
 
 .current
